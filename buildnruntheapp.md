@@ -1,4 +1,4 @@
-Certainly! Below is a simple document outlining the steps you've taken so far, including the Dockerfile, the Python script, and how to use them to automate the build process of your Docker container.
+ Below is a simple document outlining the steps you've taken so far, including the Dockerfile, the Python script, and how to use them to automate the build process of your Docker container.
 Automated Docker Build Process Documentation
 Overview
 
